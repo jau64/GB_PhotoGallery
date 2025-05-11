@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "ee984271-5e07-4f76-94f2-01dc4b801835",
+  "_index": 1,
+  "name": "Photos",
+  "backgroundId": "4a755eb5-3e78-443a-8674-60db0271ecfa",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "POINTNCLICK",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_2",
+  "x": 392,
+  "y": 80,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "daf95270-e30d-423b-9ee7-990ae29f57f6"
+}
