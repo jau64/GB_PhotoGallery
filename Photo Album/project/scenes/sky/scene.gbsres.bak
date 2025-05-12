@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "3dc88e1b-a670-46b5-ae1d-eb5ee01c26ae",
+  "_index": 3,
+  "name": "Sky",
+  "backgroundId": "8f1ea8aa-3360-4392-8d6e-ad2b5fd65bfd",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "LOGO",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_4",
+  "x": 200,
+  "y": 408,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}
